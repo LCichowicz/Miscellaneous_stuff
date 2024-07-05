@@ -6,7 +6,7 @@ def number_validation(number:str)->int:
     try:
         number = int(number)
     except ValueError:
-        print('You have to give a valid intiger next time!!!')
+        print('You have to give a valid integer next time!!!')
         quit()
 
     return number
