@@ -1,4 +1,4 @@
-#Simple guessing game. User have to guess a number from 1-10 in as little attempts as possible.
+#Simple guessing game. User have to guess a number from 1-> user_choice in as little attempts as possible.
 from random import randint
 
 
